@@ -1,6 +1,7 @@
 # EthereumSana
 EthereumSana Deploy (Sana 部署安装)
 
+QQ Group: 427946251
 ## Faucet (水龙头领取)
 
 Sana:
